@@ -7,25 +7,33 @@ Navigation is created once, and stored in NAVIGATION_FILE, to recreaate navigati
 h1. Settings reference
 
 *POLITENESS* - number of seconds between downloads
+
 bq. example: 3
 
 *MAX_PAGE_PARSE* - maximum number of page that should be parsed during project lookup
+
 bq. example: 1
 
 *EXCLUDE_NAVIGATION* - set of menu titles to exclude from parsing
+
 bq. example: set(['Staff Picks', 'Popular', 'Recently Launched',])
 
 *PROJECTS_FILE* - cache file for project gathered
+
 bq. example: projects.json
 
 *NAVIGATION_FILE* - cache file for navigation info
+
 bq. example: navigation.json
 
 *XL_OUTPUT_FILE* - Excel report file name
+
 bq. example: zzz.xls
 
 *RESOURCES_DIR* - cache dir
+
 bq. example: olololol
 
 *COLUMNS* - Excel report columns in that order, possible values:
+
 bq. example: ['category', 'subcategory', 'name', 'description', 'location', 'founder', 'funded', 'funded_date', 'pledged', 'days left']

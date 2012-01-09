@@ -14,5 +14,5 @@ Navigation is created once, and stored in NAVIGATION_FILE, to recreaate navigati
 * XL_OUTPUT_FILE - Excel report file name (example: zzz.xls)
 * RESOURCES_DIR - cache dir (example: olololol)
 * COLUMNS - Excel report columns in that order, possible values:
-                    ['category', 'subcategory', 'name', 'description', 'location', 'founder',
-                    'funded', 'funded_date', 'pledged', 'days left',]
+
+    ['category', 'subcategory', 'name', 'description', 'location', 'founder', 'funded', 'funded_date', 'pledged', 'days left',]

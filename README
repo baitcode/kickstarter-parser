@@ -1,8 +1,10 @@
+# How to use
+
 To run, run parser.py
 
 Navigation is created once, and stored in NAVIGATION_FILE, to recreaate navigation - delete file. Same is with projects.
 
-Settings reference
+# Settings reference
 
 POLITENESS - number of seconds between downloads (example: 3)
 MAX_PAGE_PARSE - maximum number of page that should be parsed during project lookup (example: 1)

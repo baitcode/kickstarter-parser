@@ -1,3 +1,7 @@
+h1. Why?
+
+It's a present for Startaposlav Dorofeev
+
 h1. How to use
 
 To run, run parser.py

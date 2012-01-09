@@ -32,7 +32,7 @@ NAVIGATION_FILE = 'navigation.json'
 
 XL_OUTPUT_FILE = 'simple.xls'
 
-RESOURCES_DIR = 'resources'
+RESOURCES_DIR = 'cache'
 
 COLUMNS = [
     'category',

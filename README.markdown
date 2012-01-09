@@ -15,4 +15,4 @@ Navigation is created once, and stored in NAVIGATION_FILE, to recreaate navigati
 * RESOURCES_DIR - cache dir (example: olololol)
 * COLUMNS - Excel report columns in that order, possible values:
 
-    ['category', 'subcategory', 'name', 'description', 'location', 'founder', 'funded', 'funded_date', 'pledged', 'days left',]
+> ['category', 'subcategory', 'name', 'description', 'location', 'founder', 'funded', 'funded_date', 'pledged', 'days left',]

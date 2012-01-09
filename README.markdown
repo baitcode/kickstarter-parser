@@ -12,7 +12,8 @@ Navigation is created once, and stored in NAVIGATION_FILE, to recreaate navigati
 
 *EXCLUDE_NAVIGATION* - set of menu titles to exclude from parsing ( exaple: set(['Staff Picks', 'Popular', 'Recently Launched',]) )
 
-PROJECTS_FILE - cache file for project gathered (example: projects.json)
+[PROJECTS_FILE] - cache file for project gathered (example: projects.json)
+
 NAVIGATION_FILE - cache file for navigation info (example: navigation.json)
 XL_OUTPUT_FILE - Excel report file name (example: zzz.xls)
 RESOURCES_DIR - cache dir (example: olololol)
